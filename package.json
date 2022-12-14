@@ -1,0 +1,26 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "t",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mao527147880/hello-electron.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mao527147880/hello-electron/issues"
+  },
+  "homepage": "https://github.com/mao527147880/hello-electron#readme",
+  "dependencies": {
+    "electron": "^22.0.0"
+  }
+}
